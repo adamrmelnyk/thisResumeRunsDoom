@@ -2,6 +2,10 @@
 
 A Resume built into a DOOM WAD
 
+## Blog
+
+Read about this on my blog https://www.arm64.ca/post/creating-a-resume-in-doom/
+
 ## How to use
 
 ### Requirements
