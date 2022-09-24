@@ -25,3 +25,5 @@ gzdoom -iwad ~/.config/gzdoom/DOOM2.WAD -file ~/src/DOOMResume/Resume.wad
 ![Entrance to the Resume / Doom level](/ScreenShots/enter.png)
 
 ![Showing off my experience](/ScreenShots/exper.png)
+
+![Showing off the secret room](/ScreenShots/faceroom.png)
