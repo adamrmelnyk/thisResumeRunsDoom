@@ -20,6 +20,10 @@ Depending on where you keep your files, you can run the wad with DOOM2 from your
 gzdoom -iwad ~/.config/gzdoom/DOOM2.WAD -file ~/src/DOOMResume/Resume.wad
 ```
 
+## Playing
+
+Trying walking through walls with text. There are several hidden areas
+
 ## Screenshots
 
 ![Entrance to the Resume / Doom level](/ScreenShots/enter.png)
