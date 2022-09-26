@@ -24,6 +24,10 @@ gzdoom -iwad ~/.config/gzdoom/DOOM2.WAD -file ~/src/DOOMResume/Resume.wad
 
 Trying walking through walls with text. There are several hidden areas
 
+## Watching
+
+You can watch a run through of the WAD [here](https://www.youtube.com/watch?v=_lUSQOMB0No)
+
 ## Screenshots
 
 ![Entrance to the Resume / Doom level](/ScreenShots/enter.png)
